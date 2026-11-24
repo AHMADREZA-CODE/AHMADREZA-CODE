@@ -3,25 +3,17 @@
   <img src="assets/ahmadreza-hero.svg" alt="Ahmadreza Ghasemi Hero Banner" width="100%" />
 </p>
 
-## About Me
-I am **Ahmadreza Ghasemi** (`Ahmadreza Ghasemi Charmahini`), a **Computer Science undergraduate** preparing for an **M.Sc. in Computer Science (Artificial Intelligence)** and building my path as an **AI Engineer**.
+<p align="center">
+  <img src="assets/about-blue-card.svg" alt="About Me - Deep Blue Card" width="100%" />
+</p>
 
-My engineering and research focus spans **Machine Learning**, **Deep Learning**, **Computer Vision (OpenCV)**, **NLP**, and **Generative AI / LLMs** (RAG, AI Agents, and Fine-Tuning).
+<p align="center">
+  <img src="assets/focus-blue-card.svg" alt="Core Focus Areas - Deep Blue Card" width="100%" />
+</p>
 
----
+<br/>
 
-## Core Focus Areas
-| Domain | Key Concepts & Workflows |
-| :--- | :--- |
-| **LLMs & Generative AI** | Prompt Engineering, Embeddings, Vector Search (FAISS, Chroma), RAG Pipelines, AI Agents (LangChain, LangGraph, LlamaIndex, Ollama), Fine-Tuning (PEFT, LoRA) |
-| **Deep Learning & NLP** | Neural Networks, CNNs, RNN / LSTM / GRU, Attention & Transformers, Vision Transformers (ViT), Diffusion Models, Multimodal Systems |
-| **Computer Vision** | Image Processing with **OpenCV**, Object Detection (YOLO), Segmentation (U-Net, Mask R-CNN, SAM) |
-| **Machine Learning & Data** | Supervised & Unsupervised Learning, Feature Engineering, PCA, Time Series, Recommender Systems, ETL Pipelines, Linear Algebra & Statistics |
-| **Software & MLOps** | Python, OOP, SQL & NoSQL Databases, REST APIs (Django REST Framework, Flask), Git, Docker, Conda |
-
----
-
-## Tech Stack
+### 🛠️ Tech Stack
 
 **Languages & Databases**  
 ![Python](https://img.shields.io/badge/Python-0A192F?style=for-the-badge&logo=python&logoColor=60A5FA)
@@ -49,20 +41,15 @@ My engineering and research focus spans **Machine Learning**, **Deep Learning**,
 ![Docker](https://img.shields.io/badge/Docker-0A192F?style=for-the-badge&logo=docker&logoColor=60A5FA)
 ![Git](https://img.shields.io/badge/Git-0A192F?style=for-the-badge&logo=git&logoColor=60A5FA)
 
----
+<br/>
 
-## Repository Roadmap
-| Repository | Focus |
-| :--- | :--- |
-| `python-ai-foundations` | Core Python, OOP, algorithms, regex, REST APIs, and foundational exercises |
-| `data-analysis-math-ai` | Data preprocessing, EDA, ETL pipelines, and applied linear algebra & statistics |
-| `machine-learning-lab` | Supervised/unsupervised models, evaluation metrics, time series, and recommenders |
-| `computer-vision-deep-learning` | OpenCV pipelines, CNNs, YOLO object detection, segmentation, and generative models |
-| `llm-rag-agents-projects` | Embeddings, FAISS/Chroma vector search, RAG workflows, and AI Agents |
+<p align="center">
+  <img src="assets/repos-blue-card.svg" alt="Repository Roadmap - Deep Blue Card" width="100%" />
+</p>
 
----
+<br/>
 
-## Connect
+### 📫 Connect
 [![GitHub](https://img.shields.io/badge/GitHub-AHMADREZA--CODE-0A192F?style=for-the-badge&logo=github&logoColor=60A5FA)](https://github.com/AHMADREZA-CODE)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-0A192F?style=for-the-badge&logo=gmail&logoColor=60A5FA)](mailto:ahmadreza.ghasemi.chermahini@gmail.com)
 
