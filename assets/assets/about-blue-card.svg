@@ -1,0 +1,44 @@
+<svg width="100%" viewBox="0 0 900 175" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="About Me">
+  <defs>
+    <linearGradient id="aboutBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050811" />
+      <stop offset="100%" stop-color="#0A192F" />
+    </linearGradient>
+
+    <linearGradient id="aboutBeamGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1D4ED8" stop-opacity="0" />
+      <stop offset="50%" stop-color="#3B82F6" stop-opacity="0.85" />
+      <stop offset="100%" stop-color="#93C5FD" stop-opacity="1" />
+    </linearGradient>
+
+    <filter id="aboutGlow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="2.5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  
+  <rect x="2" y="2" width="896" height="171" rx="12" fill="url(#aboutBg)" stroke="#1E3A8A" stroke-width="1.2" />
+
+  
+  <rect x="2" y="2" width="896" height="171" rx="12" fill="none" stroke="url(#aboutBeamGrad)" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="280 1835" filter="url(#aboutGlow)">
+    <animate attributeName="stroke-dashoffset" from="2115" to="0" dur="5.5s" repeatCount="indefinite" />
+  </rect>
+
+  
+  <text x="36" y="38" fill="#60A5FA" font-family="ui-monospace, monospace" font-size="14" font-weight="700" letter-spacing="1.5">
+    ABOUT ME
+  </text>
+  <text x="36" y="72" fill="#F8FAFC" font-family="system-ui, -apple-system, sans-serif" font-size="15">
+    I am Ahmadreza Ghasemi (Ahmadreza Ghasemi Charmahini), a Computer Science undergraduate
+  </text>
+  <text x="36" y="96" fill="#F8FAFC" font-family="system-ui, -apple-system, sans-serif" font-size="15">
+    preparing for an M.Sc. in Computer Science (Artificial Intelligence) as an Aspiring AI Engineer.
+  </text>
+  <text x="36" y="132" fill="#93C5FD" font-family="system-ui, -apple-system, sans-serif" font-size="14">
+    Focus: LLMs &amp; GenAI • Deep Learning • Machine Learning • Computer Vision (OpenCV) • NLP
+  </text>
+</svg>
