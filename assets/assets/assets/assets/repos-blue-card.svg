@@ -1,0 +1,50 @@
+<svg width="100%" viewBox="0 0 900 205" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Repository Roadmap">
+  <defs>
+    <linearGradient id="reposBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050811" />
+      <stop offset="100%" stop-color="#0A192F" />
+    </linearGradient>
+
+    <linearGradient id="reposBeamGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1D4ED8" stop-opacity="0" />
+      <stop offset="50%" stop-color="#3B82F6" stop-opacity="0.85" />
+      <stop offset="100%" stop-color="#93C5FD" stop-opacity="1" />
+    </linearGradient>
+
+    <filter id="reposGlow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="2.5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  
+  <rect x="2" y="2" width="896" height="201" rx="12" fill="url(#reposBg)" stroke="#1E3A8A" stroke-width="1.2" />
+
+  
+  <rect x="2" y="2" width="896" height="201" rx="12" fill="none" stroke="url(#reposBeamGrad)" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="290 1885" filter="url(#reposGlow)">
+    <animate attributeName="stroke-dashoffset" from="2175" to="0" dur="6s" repeatCount="indefinite" />
+  </rect>
+
+  
+  <text x="36" y="38" fill="#60A5FA" font-family="ui-monospace, monospace" font-size="14" font-weight="700" letter-spacing="1.5">
+    REPOSITORY ROADMAP
+  </text>
+  <text x="36" y="72" fill="#F8FAFC" font-family="ui-monospace, monospace" font-size="13">
+    python-ai-foundations         -&gt; Core Python, OOP, Algorithms, Regex, APIs
+  </text>
+  <text x="36" y="98" fill="#CBD5E1" font-family="ui-monospace, monospace" font-size="13">
+    data-analysis-math-ai         -&gt; Data Preprocessing, EDA, ETL, Linear Algebra &amp; Stats
+  </text>
+  <text x="36" y="124" fill="#CBD5E1" font-family="ui-monospace, monospace" font-size="13">
+    machine-learning-lab          -&gt; Supervised/Unsupervised ML, Time Series, Recommenders
+  </text>
+  <text x="36" y="150" fill="#CBD5E1" font-family="ui-monospace, monospace" font-size="13">
+    computer-vision-deep-learning -&gt; OpenCV, CNNs, YOLO, Segmentation, Generative Models
+  </text>
+  <text x="36" y="176" fill="#93C5FD" font-family="ui-monospace, monospace" font-size="13">
+    llm-rag-agents-projects       -&gt; Embeddings, Vector Search (FAISS/Chroma), RAG &amp; Agents
+  </text>
+</svg>
