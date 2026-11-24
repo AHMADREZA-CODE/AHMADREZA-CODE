@@ -1,4 +1,4 @@
-# AGMADREZA_CODE
+# AHMADREZA-CODE
 <p align="center">
   <img src="assets/ahmadreza-hero.svg" alt="Ahmadreza Ghasemi Hero Banner" width="100%" />
 </p>
