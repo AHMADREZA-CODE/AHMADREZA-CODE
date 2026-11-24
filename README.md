@@ -1,6 +1,48 @@
 # AGMADREZA_CODE
-YOUR-USERNAME/
-├── assets/
-│   ├── ahmadreza-hero.svg
-│   └── ahmadreza-footer.svg
-└── README.md
+<p align="center">
+  <img src="assets/ahmadreza-hero.svg" alt="Ahmadreza Ghasemi Hero Banner" width="100%" />
+</p>
+
+## About Me
+I am **Ahmadreza Ghasemi** (`Ahmadreza Ghasemi Charmahini`), a **Computer Science undergraduate** aiming for an **M.Sc. in Computer Science (Artificial Intelligence)** and growing into an **AI Engineer**.
+
+My learning and engineering focus spans **Machine Learning**, **Deep Learning**, **Computer Vision (OpenCV)**, **NLP**, and **Generative AI / LLMs** (including RAG, AI Agents, and Fine-Tuning).
+
+---
+
+## Focus Areas & Core Competencies
+- **LLMs & Generative AI:** Prompt Engineering, Embeddings, Vector Search (FAISS, Chroma), RAG pipelines, AI Agents (LangChain, LangGraph, LlamaIndex, Ollama), and Fine-Tuning (PEFT, LoRA).
+- **Deep Learning & NLP:** Neural Networks, CNNs, RNN/LSTM/GRU, Attention & Transformers, Vision Transformers (ViT), Diffusion models, and multimodal concepts.
+- **Computer Vision:** Image processing with **OpenCV**, Object Detection (YOLO), and Segmentation (U-Net, Mask R-CNN, SAM).
+- **Machine Learning & Data Analysis:** Supervised/Unsupervised Learning, Feature Engineering, PCA, Time Series, Recommender Systems, ETL pipelines, and applied Math/Statistics (Linear Algebra, Probability, Statistics).
+- **Software & Deployment:** Python, OOP, SQL & NoSQL databases, REST APIs (Django REST Framework, Flask), Git, Docker, and Linux/Conda workflows.
+
+---
+
+## Technical Stack
+- **Languages & Query:** `Python` `SQL`
+- **Data & Classical ML:** `NumPy` `Pandas` `Matplotlib` `Scikit-Learn`
+- **Deep Learning & Vision:** `PyTorch` `TensorFlow` `Keras` `OpenCV` `Hugging Face`
+- **LLM & GenAI:** `LangChain` `LangGraph` `LlamaIndex` `Ollama` `FAISS` `Chroma`
+- **Backend, DB & DevOps:** `PostgreSQL` `MySQL` `MongoDB` `SQLite` `Django REST Framework` `Flask` `Git` `GitHub` `Docker` `Conda`
+
+---
+
+## Planned & Active Repository Structure
+- `python-ai-foundations` — Core Python, OOP, algorithms, regex, APIs, and foundational exercises.
+- `data-analysis-math-ai` — Data preprocessing, EDA, ETL pipelines, and applied math/statistics notebooks.
+- `machine-learning-lab` — Supervised/unsupervised models, evaluation, feature importance, and applied datasets.
+- `computer-vision-deep-learning` — OpenCV experiments, CNNs, object detection, segmentation, and generative models.
+- `llm-rag-agents-projects` — RAG workflows, embeddings, vector databases, and agentic AI prototypes.
+
+---
+
+## Connect
+- **GitHub:** `https://github.com/YOUR-USERNAME`
+- **LinkedIn:** `https://linkedin.com/in/YOUR-USERNAME`
+- **X (Twitter):** `https://x.com/YOUR-USERNAME`
+- **Email:** `YOUR-EMAIL`
+
+<p align="center">
+  <img src="assets/ahmadreza-footer.svg" alt="Footer Banner" width="100%" />
+</p>
