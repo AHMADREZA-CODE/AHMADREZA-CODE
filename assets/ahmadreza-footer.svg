@@ -1,0 +1,14 @@
+<svg width="100%" viewBox="0 0 900 80" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Footer Banner">
+  <defs>
+    <linearGradient id="footerGradBlue" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#050811" />
+      <stop offset="50%" stop-color="#0A192F" />
+      <stop offset="100%" stop-color="#050811" />
+    </linearGradient>
+  </defs>
+  <rect width="900" height="80" rx="10" fill="url(#footerGradBlue)" />
+  <line x1="40" y1="16" x2="860" y2="16" stroke="#1D4ED8" stroke-width="1" stroke-opacity="0.5" />
+  <text x="450" y="48" text-anchor="middle" fill="#93C5FD" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">
+    Building in public • Learning, experimenting, and engineering AI systems
+  </text>
+</svg>
